@@ -1,6 +1,6 @@
 #To print all the perfect numbers between 1 to num
 
-num=int(input("Enter number"))
+num=int(input("Enter number : "))
 perfectNum=[]
 divSum=0
 for i in range(1,num):
